@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: linear-gradient(-45deg, #oooooo);
+    background: black
     background-size: 400% 400%;
     background-size: 400% 400%;
     animation: gradientMove 15s ease infinite;
